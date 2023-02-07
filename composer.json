@@ -18,9 +18,6 @@
             "Bref\\Extra\\": "src/"
         }
     },
-    "conflict": {
-        "bref/bref": "<1.2.13"
-    },
     "license": "MIT",
     "authors": [
         {
